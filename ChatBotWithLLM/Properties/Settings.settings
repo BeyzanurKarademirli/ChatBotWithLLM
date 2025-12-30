@@ -1,0 +1,14 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="ApiKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">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</Value>
+    </Setting>
+    <Setting Name="ApiUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">https://api.groq.com/openai/v1/chat/completions</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
